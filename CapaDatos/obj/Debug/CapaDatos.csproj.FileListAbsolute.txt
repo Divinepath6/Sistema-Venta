@@ -1,0 +1,90 @@
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\eduar\OneDrive\Desktop\C#\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LuisM\source\repos\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\grose\Documents\DOCUMENTOS\CursoSistemaVentas789\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas12\CursoSistemaVentas12\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\CursoSistemaVentas16\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ELTELUC\Documents\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\venta 20\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jesus\Downloads\video22\video22\venta 20\CursoSistemaVentas18\CursoSistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb
