@@ -49,28 +49,31 @@ El proyecto está construido utilizando una **Arquitectura de 4 Capas** para una
 Módulo para la administración de credenciales, roles y permisos de acceso al sistema.
 
 <div align="center">
-  <img src="ruta_a_tu_carpeta_de_imagenes/usuarios.png" alt="Módulo de Usuarios" width="800">
+  <img width="1349" height="850" alt="image" src="https://github.com/user-attachments/assets/edd49ac2-c421-48cf-9758-c7f878b85db5" />
 </div>
 
 ### 📦 2. Catálogo de Productos
 Control de inventario, registro de nuevos artículos, categorías y gestión de stock.
 
 <div align="center">
-  <img src="ruta_a_tu_carpeta_de_imagenes/productos.png" alt="Módulo de Productos" width="800">
+  <img width="1346" height="848" alt="image" src="https://github.com/user-attachments/assets/f74daebe-961d-4a20-bda0-03098aae2a49" />
+
 </div>
 
 ### 🛒 3. Punto de Venta
 Interfaz principal para registrar transacciones, buscar artículos y procesar el cobro.
 
 <div align="center">
-  <img src="ruta_a_tu_carpeta_de_imagenes/venta.png" alt="Módulo de Venta" width="800">
+ <img width="1353" height="845" alt="image" src="https://github.com/user-attachments/assets/e7d69e09-ad6b-473e-8b4d-4edbf4cf3a96" />
+
 </div>
 
 ### 📊 4. Reportes de Ventas
 Generación de informes de ventas filtrados por fechas para la toma de decisiones empresariales.
 
 <div align="center">
-  <img src="ruta_a_tu_carpeta_de_imagenes/reportes.png" alt="Reporte de Ventas" width="800">
+ <img width="1352" height="862" alt="image" src="https://github.com/user-attachments/assets/f3ca0fb2-09fd-4d6b-9d1d-2c7ac347e708" />
+
 </div>
 
 ---
